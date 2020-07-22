@@ -1,0 +1,14 @@
+{
+  "name": "bubbabot771634",
+  "version": "1.0.0",
+  "description": "Daddy Bot ",
+  "main": "main.js",
+  "scripts": {
+  "start": "node main.js"
+},
+  "author": "Boxking776",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
